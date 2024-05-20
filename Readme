@@ -1,3 +1,7 @@
 **Speech Synthesis app**
 
-In this webapp i used the speech synthesis 
+In this webapp i used the speech synthesis many predefined functions. 
+
+-  I used get voices functions for getting the drop down voices options so that voices can convert in different accent.
+-  I used utterthis function for the utterece of the text we entered in input box.
+-  After that select the voice, language and accent in which you want to utter.
